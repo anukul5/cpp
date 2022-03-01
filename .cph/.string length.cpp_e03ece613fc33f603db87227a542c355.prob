@@ -1,0 +1,1 @@
+{"name":"Local: string length","url":"c:\\Users\\R K MISHRA\\Documents\\c++\\string length.cpp","tests":[{"id":1621953198357,"input":"anukul","output":"6"},{"id":1621953203538,"input":"anukul11","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\R K MISHRA\\Documents\\c++\\string length.cpp","group":"local","local":true}

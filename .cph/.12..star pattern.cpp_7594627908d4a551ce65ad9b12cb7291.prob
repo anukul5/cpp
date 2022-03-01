@@ -1,0 +1,1 @@
+{"name":"Local: 12","url":"c:\\Users\\R K MISHRA\\Documents\\c++\\12..star pattern.cpp","tests":[{"id":1625415453231,"input":"5","output":"1 2 3 4 5\n1 2 3 4 * \n1 2 3 * * *\n1 2 * * * * *\n1 * * * * * * *"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\R K MISHRA\\Documents\\c++\\12..star pattern.cpp","group":"local","local":true}
