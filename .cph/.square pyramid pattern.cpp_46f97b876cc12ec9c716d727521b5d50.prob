@@ -1,0 +1,1 @@
+{"name":"Local: square pyramid pattern","url":"c:\\Users\\R K MISHRA\\Documents\\c++\\square pyramid pattern.cpp","tests":[{"id":1625565129914,"input":"5","output":"1 \n1 4 \n1 4 9 \n1 4 9 16 \n1 4 9 16 25 "}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\R K MISHRA\\Documents\\c++\\square pyramid pattern.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: hollow rhombus","url":"c:\\Users\\R K MISHRA\\Documents\\c++\\hollow rhombus.cpp","tests":[{"id":1625297334173,"input":"5","output":"*****\n   *   *\n  *   *\n *   *\n*****"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\R K MISHRA\\Documents\\c++\\hollow rhombus.cpp","group":"local","local":true}

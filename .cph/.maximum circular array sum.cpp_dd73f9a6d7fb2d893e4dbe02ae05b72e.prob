@@ -1,0 +1,1 @@
+{"name":"Local: maximum circular array sum","url":"c:\\Users\\R K MISHRA\\Documents\\c++\\maximum circular array sum.cpp","tests":[{"id":1627758827062,"input":"1\n7\n8 -8 9 -9 10 -11 12","output":"22"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\R K MISHRA\\Documents\\c++\\maximum circular array sum.cpp","group":"local","local":true}
